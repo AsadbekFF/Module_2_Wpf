@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Module_2_Console/1.0.0": {
+        "runtime": {
+          "Module_2_Console.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Module_2_Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

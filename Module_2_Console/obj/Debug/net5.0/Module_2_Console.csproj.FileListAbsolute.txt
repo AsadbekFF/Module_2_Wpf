@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Module_2_Wpf\Module_2_Console\bin\Debug\net5.0\Module_2_Console.exe
+C:\Users\user\source\repos\Module_2_Wpf\Module_2_Console\bin\Debug\net5.0\Module_2_Console.deps.json
+C:\Users\user\source\repos\Module_2_Wpf\Module_2_Console\bin\Debug\net5.0\Module_2_Console.runtimeconfig.json
+C:\Users\user\source\repos\Module_2_Wpf\Module_2_Console\bin\Debug\net5.0\Module_2_Console.runtimeconfig.dev.json
+C:\Users\user\source\repos\Module_2_Wpf\Module_2_Console\bin\Debug\net5.0\Module_2_Console.dll
+C:\Users\user\source\repos\Module_2_Wpf\Module_2_Console\bin\Debug\net5.0\ref\Module_2_Console.dll
+C:\Users\user\source\repos\Module_2_Wpf\Module_2_Console\bin\Debug\net5.0\Module_2_Console.pdb
+C:\Users\user\source\repos\Module_2_Wpf\Module_2_Console\obj\Debug\net5.0\Module_2_Console.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Module_2_Wpf\Module_2_Console\obj\Debug\net5.0\Module_2_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Module_2_Wpf\Module_2_Console\obj\Debug\net5.0\Module_2_Console.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Module_2_Wpf\Module_2_Console\obj\Debug\net5.0\Module_2_Console.AssemblyInfo.cs
+C:\Users\user\source\repos\Module_2_Wpf\Module_2_Console\obj\Debug\net5.0\Module_2_Console.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Module_2_Wpf\Module_2_Console\obj\Debug\net5.0\Module_2_Console.dll
+C:\Users\user\source\repos\Module_2_Wpf\Module_2_Console\obj\Debug\net5.0\ref\Module_2_Console.dll
+C:\Users\user\source\repos\Module_2_Wpf\Module_2_Console\obj\Debug\net5.0\Module_2_Console.pdb
+C:\Users\user\source\repos\Module_2_Wpf\Module_2_Console\obj\Debug\net5.0\Module_2_Console.genruntimeconfig.cache

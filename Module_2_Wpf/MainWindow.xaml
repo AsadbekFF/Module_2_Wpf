@@ -1,0 +1,15 @@
+﻿<Window x:Class="Module_2_Wpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Module_2_Wpf"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label x:Name="label" Content="Enter your name below" HorizontalAlignment="Left" Margin="347,120,0,0" VerticalAlignment="Top" Height="29" Width="135"/>
+        <Button x:Name="button" Content="Confirm" HorizontalAlignment="Left" Margin="516,170,0,0" VerticalAlignment="Top" Width="75" Click="button_Click"/>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="23" Margin="356,167,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="label1" Content="" HorizontalAlignment="Left" Margin="356,218,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.605,0.013" Width="120"/>
+    </Grid>
+</Window>
